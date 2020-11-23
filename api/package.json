@@ -1,0 +1,19 @@
+{
+  "name": "hfl-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fabric-ca-client": "^2.2.3",
+    "fabric-client": "^1.4.14",
+    "fabric-network": "^2.2.3",
+    "mongoose": "^5.10.15"
+  }
+}
